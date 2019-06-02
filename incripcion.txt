@@ -1,0 +1,5 @@
+El estudiante adri
+ con cédula 4556
+ se ha matriculado en el curso Xp
+ el cual tiene una duracion de 64 horas
+ y un valor de 20.000 pesos
